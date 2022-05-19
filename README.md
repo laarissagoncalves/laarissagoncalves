@@ -3,6 +3,6 @@
 </p>
 
 <p align="center">
-  <img align="center" height="155" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=laarissagoncalves&layout=compact&theme=dracula" />
+  <img align="center" height="200" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=laarissagoncalves&layout=compact&theme=dracula" />
 </p>
 
